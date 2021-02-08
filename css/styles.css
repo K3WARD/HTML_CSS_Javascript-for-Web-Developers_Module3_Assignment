@@ -10,6 +10,8 @@ body{
     background-color: #A9A9A9;
     border-radius: 0;
     border: 0;
+   padding: 15px 15px 15px 15px;
+  margin: 15px 15px 15px 15px;
 }
 
 #header-nav button {
@@ -17,7 +19,7 @@ body{
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #A9A9A9;
+    background-color: #F0F8FF;
 }
 
 .navbar-collapse {
@@ -35,6 +37,7 @@ body{
     font-family: 'preconnect', serif;
     font-weight: bolder;
     font-size: 2em;
+    text-decoration: none;
 }
 
 .navbar-brand a:hover {
