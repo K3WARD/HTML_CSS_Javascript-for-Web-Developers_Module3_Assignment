@@ -49,3 +49,12 @@ p {
   padding: 10px 10px 10px 10px;
   background-color: #A9A9A9;
 }
+section {
+background-color: #A9A9A9;
+padding: 10px 10px 10px 10px; 
+}
+
+@media (max-width: 767px) {
+	.row > div > article {
+		width: 80%;
+		margin: 20px auto 0;
