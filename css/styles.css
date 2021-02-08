@@ -12,6 +12,8 @@ body{
     border: 0;
     padding: 15px 15px 15px 15px;
     margin: 0px 30px 15px 30px;
+    border-style: solid;
+    border-width: 5px;
 }
 
 #header-nav button {
@@ -30,6 +32,9 @@ body{
     line-height: 76px;
     height: 76px;
     padding-top: 0;
+    text-align:center;
+  border-style: solid;
+    border-width: 5px;
 }
 
 .navbar-brand h1 {
