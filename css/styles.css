@@ -66,9 +66,13 @@ section {
   padding: 15px 15px 15px 15px;
   margin: 15px 15px 15px 15px;
   background-color: #A9A9A9;
-  max-height: fit-content;;
+  max-height: fit-content;
   
  }
+
+.div{
+  height: fit-content;
+}
 
 p {
   text-align: justify;
