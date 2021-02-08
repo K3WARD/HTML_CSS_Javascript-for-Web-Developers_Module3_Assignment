@@ -16,6 +16,10 @@ body{
  text-underline: none; 
  }
 
+.navbar-brand p {
+	color: #000000;
+	font-size: 2em;
+}
 a {
   color: #000000;
   text-decoration: none;
@@ -43,9 +47,5 @@ p {
   margin-top: 0;
   text-align: left;
   margin: 10px 10px 10px 10px;
-}
-
-section {
-background-color: #A9A9A9;
-margin: 10px 10px 10px 10px; 
+  background-color: #A9A9A9;
 }
