@@ -1,6 +1,6 @@
 body{
-  font size: 20px;
-  colour: #000000;
+  font-size: 20px;
+  color: #000000;
   background-color: #FFFAF0;
   font-family: 'preconnect', sans-serif;
 
@@ -44,11 +44,12 @@ h2, h3, {
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 25px;
-  text-align: center;
+  text-align: centre;
   }
 
 h2 {
   font-size: 2em;
+  text-align: centre;
 }
 
 
@@ -59,6 +60,7 @@ font-family: 'preconnect', serif;
   font-size: 1em;
   margin-top: 0;
   padding: 15px 15px 15px 15px;
+  margin: 15px 15px 15px 15px;
   background-color: #A9A9A9;
   border: black;
 }
@@ -69,3 +71,5 @@ p {
 	.row > div > article {
 		width: 80%;
 		margin: 20px auto 0;
+  }
+}
