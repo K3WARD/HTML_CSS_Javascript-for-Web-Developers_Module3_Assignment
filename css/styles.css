@@ -66,7 +66,7 @@ section {
   padding: 15px 15px 15px 15px;
   margin: 15px 15px 15px 15px;
   background-color: #A9A9A9;
-  max-height: max-content;
+  max-height: fit-content;;
   
  }
 
