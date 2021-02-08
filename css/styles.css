@@ -66,20 +66,12 @@ section {
   padding: 15px 15px 15px 15px;
   margin: 15px 15px 15px 15px;
   background-color: #A9A9A9;
+  max-height: max-content;
   
  }
 
 p {
   text-align: justify;
-}
-
-
-
-@media (max-width: 767px) {
-	.row > div > article {
-		width: 80%;
-		margin: 20px auto 0;
-  }
 }
 
 
